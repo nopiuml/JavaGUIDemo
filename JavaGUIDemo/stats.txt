@@ -1,0 +1,4 @@
+Algorithm executed in : 624msec as agent 5 reached home 
+Number of steps he did : 4
+Path he followed : {7_7=6_7, 9_7=8_7, 6_7=5_7, 8_7=7_7}
+He participated in 0 exchanges of knowledge
